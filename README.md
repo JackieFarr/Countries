@@ -8,12 +8,6 @@ Be able to integrate an API request into the pub/sub pattern
 Brief
 Your task is to create an app that allows users to select a country from a drop-down to see information about it.
 
-Screenshot of resulting application
-
-Screenshot of resulting application
-
-Use the start point provided and use the Rest Countries API as your data source.
-
 MVP
 Create a select populated with the name of the countries.
 When a user selects a country from the drop-down, display the country's:
